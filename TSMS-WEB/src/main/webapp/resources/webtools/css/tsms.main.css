@@ -1,0 +1,336 @@
+body {
+	font-family: verdana !important;
+}
+
+
+.open > a,
+.open > a:hover,
+.open > a:focus {
+  color: white !important;
+  background-color: #a8854a !important;
+  border-color: #a8854a !important;
+}
+
+
+.navbar {
+	border-radius: 0px !important;
+}
+
+.cm-login-well-bg{
+	background-color: red !important; 
+	border-radius: 15px !important; 
+	margin-top: 9% !important;
+}
+
+.cm-navbar-colour {
+	background-color: #22297a !important;
+	border-color: #22297a !important;
+}
+
+.cm-text-colour{
+ 	color: white !important;
+ 	margin:0 5px;
+}
+
+ .nav .cm-text-colour:hover{
+ 	background: #ffffff59;
+ 	border-radius: 5px;
+}
+ 
+.nav .cm-text-colour a:hover {
+color: #fff !important; 	
+ }
+
+
+.white-text-col {
+	color: white !important;
+}
+
+.dropdown-cm-hover a:hover {
+	background-color: #22297a !important;
+	border-color: #22297a !important;
+	color: white !important;
+}
+
+.cm-nav-coll {
+	flex-grow: 0.002 !important;
+}
+.mrg-center-cm{
+	text-align: center;
+}
+.mrg-heading-h1-cm{
+	margin-top: 14%;
+}
+.form-group{
+margin-bottom: 15px;
+}
+.bg-black{
+	background-color: black !important;
+  	color: white !important;
+}
+.bg-black:hover{
+	background-color: #22297a !important;
+	color: white !important;
+}
+
+.hiper-link-cm:hover{
+	color: #a8854a !important;
+}
+
+table, th, td {
+  border: 1px solid black !important;
+}
+
+.gap-context-bc{
+	background-color:#e6f6ff;
+}
+.cm-view-icon{
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.error-cm-colour{
+	color: red !important;
+}
+
+.bg-black-plane{
+	background-color: #a8854a !important;
+	color: white !important;
+	text-decoration: none ;
+}
+
+.bg-black-plane:hover {
+  color: #000000!important;
+}
+
+.heading-cm-deco{
+	font-size: 170%;
+  	color: #a8854a;
+}
+
+.glyphicon-cm-colour{
+	color: #a8854a;
+}
+
+.glyphicon-cm-colour:hover{
+	color: #a8854a;
+}
+
+@media (max-width: 767px) {
+  .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+    color: black !important;
+  }
+}
+
+.single-cm-text-colour{
+	color: white !important;
+}
+.single-cm-text-colour:hover{
+	color: black !important;
+}
+
+.row1 {
+	float: left;
+	width: 50%;
+	padding: 10px;
+}
+
+/*Css added by Pranita Jadhav*/
+.login-section{
+	padding:30px 0;
+}
+.login-container{
+	height:100vh;
+}
+.login-container .login-row{
+	height:100%;
+}
+.login-nav-logo{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-nav-logo img{
+	margin-bottom:20px;
+	margin-top:0;
+}
+.login-form{
+    margin: auto;
+}
+.login-form input:hover{
+	background:#22297a1f;
+}
+.btn.login-btn{
+	    background-color: #000 !important;
+    color: #fff;
+}
+.btn.login-btn:hover{
+	    background-color: #22297a !important;
+    color: #fff;
+}
+.login-form-section{margin:auto;}
+.navbar-brand.navigation-logo{height:auto;}
+.navigation-section ul.navbar-nav{margin-top:13px;}
+.cust-select .select2-container--default{width:100%;}
+.pending-form .row1{
+	width:47%;
+	margin-right:3%;
+}
+.pending-reject-btn{
+	margin-left: 10px;
+}
+.mt-20{margin-top:20px;} 
+
+
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+	background-color: #fff !important;
+	color: #000 !important;
+	border-radius: 5px;
+}
+.nav .dropdown .dropdown-menu > li > a:hover{
+	color: #fff !important;
+}
+
+.nav .cm-text-colour.dropdown-cm-hover a:hover{
+	color: #fff !important;
+}
+
+
+.dropdown li.cm-text-colour a span.glyphicon::before {
+    color: #d9251b;
+}
+
+.row.image-selection-row{
+	margin: 10px 0;
+	margin-right: 0px;
+margin-left: 0px;
+}
+
+.reject-reset-btn{
+padding-left: 40px;
+}
+
+.dropdown.cm-text-colour.open{
+	background-color:#fff;
+	border-radius:5px;
+}
+
+.table-responsive .dataTables_wrapper .dataTables_info{font-weight:bold;}
+.table-responsive .dataTables_wrapper .dataTables_paginate{font-weight:bold;}
+  .updateBtn{
+  min-height:33px;
+  height:100%;
+  }
+  #myNavbar ul li a.active {
+    background-color: white;
+    color: #212121 !important;
+    border-right-style: solid;
+    border-right-color: white;
+    border-radius: 5px;
+}
+  #myNavbar ul li.active a.dropdown-toggle{ background-color: white;color: #212121 !important; border-radius: 5px;}
+
+@media (max-width: 767px) {
+  .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: black !important;
+  }
+   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: white !important;
+  }
+  .login-form{
+        padding: 0 20px;
+  }
+  .dropdown.open{
+	    background: #fff;
+		border-radius: 5px;
+		margin:0 5px;
+  }
+}
+@media (max-width: 400px)  {
+  .login-nav-logo img{
+       width: 250px !important;
+  }
+}
+
+@media (max-width: 370px)  {
+  .exectiveDateResp{
+	display: block !important;
+  }
+  .exectiveDateResp label{
+  	margin-bottom:10px;
+  	display: block;
+  }
+   .exectiveDateResp input{
+		width: 120px !important;
+		margin-left: 0 !important;
+		display: inline-block;
+	}
+	.exectiveDateResp .updateBtn{
+		margin-top: -1px !important; 
+	}
+}
+
+@media (max-width: 320px)  {
+  .btn.login-btn{
+        width:100% !important;
+  }
+   .login-nav-logo img{
+       width: 200px !important;
+  }
+  .exectiveDateResp{
+	 flex-wrap: wrap;
+  }
+  .exectiveDateResp label{
+  	margin-bottom:10px;
+  	display: block;
+  }
+   .exectiveDateResp input{
+		width: 120px;
+		margin-left: 0;;
+		display: inline-block;
+	}
+}
+
+@media screen and (max-width: 767px){
+.pending-form .row1{width:100%;}
+.reject-reset-btn{padding: 10px 10px 10px 40px;}
+}
+@media screen and (min-width: 1250px){
+.login-form-section{margin:auto;width:50% !important;}
+}
+@media screen and (min-width: 1800px){
+.login-form-section{margin:auto;width:40% !important;}
+}
+
+@media screen and (max-width: 450px){
+	.title {
+         font-size: 10px;
+    }
+}
+
+@media (max-width: 335px) {
+	.title {
+        font-size: 30px;
+        letter-spacing: 1.5px;
+        padding: 10px;
+    }
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 0;
+    background: linear-gradient(90deg, #4FBE5E, #feb47b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    animation: glow 1.5s ease-in-out infinite alternate;
+    margin-bottom: 20px;
+}
