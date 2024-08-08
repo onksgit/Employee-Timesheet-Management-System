@@ -137,4 +137,10 @@
             <img src="https://drive.google.com/uc?export=view&id=1dpmL8fk16H3cT4DhDLcR3_g08-2g7c5J" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
         </a>
     </div>
+        <div style="text-align: center; margin: 10px;">
+        <h3>REPORTS</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1Vk8YKwTYICchHotRuIRsUrLU2Q0IW6S1" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
 </div>
