@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <div style="text-align: center; margin: 10px;">
         <h3>LOGIN PAGE</h3>
         <a href="#" target="_blank">
