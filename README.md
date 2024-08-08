@@ -125,7 +125,6 @@
             <img src="https://drive.google.com/uc?export=view&id=1XP_pgIfiUSBIlNeL16H-FXxhYUXBh6XA" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
         </a>
     </div>
-    
     <div style="text-align: center; margin: 10px;">
         <h3>VIEW WEAKLY FILLED TIMESHEET</h3>
         <a href="#" target="_blank">
