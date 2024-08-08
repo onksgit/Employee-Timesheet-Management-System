@@ -77,7 +77,59 @@
             <img src="https://drive.google.com/uc?export=view&id=1CwtSpWtf2Fs9tZR_sIucGGtz9tcU-wPb" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
         </a>
     </div>
-
-
-
+            <div style="text-align: center; margin: 10px;">
+        <h3>ADD BRANCH</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1haDczgBL62naV49OfNfmNlh4em0lGsKP" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
+            <div style="text-align: center; margin: 10px;">
+        <h3>VIEW BRANCH</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1kHa2bzaYqJp8H1-pcJvR1gx5OH2K2fyD" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
+               <div style="text-align: center; margin: 10px;">
+        <h3>ADD PROJECT</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1401KiJC3bK1MoxMCqYrGjws-dFj1zHLu" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
+                <div style="text-align: center; margin: 10px;">
+        <h3>AWARD NOMINATION OF EMP 1</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1djeZSjawtSImUIxdCplSuVNudzcqeSxb" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
+               <div style="text-align: center; margin: 10px;">
+        <h3>AWARD NOMINATION OF EMP 2</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1A0yxF7WxcUwtsqHFw6CJ_yRlSW360Tjx" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
+    <div style="text-align: center; margin: 10px;">
+        <h3>AWARD NOMINATED EMP</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1d5R1UcV3mcFXm4qUjrPYbFIjTnvUVp9E" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
+               <div style="text-align: center; margin: 10px;">
+        <h3>EMPLOYEE FILLED TIMESHEET</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1MCeVTgjq0ZKEYyWxZtgoQqI-hlqdwow2" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
+              <div style="text-align: center; margin: 10px;">
+        <h3>EMPLOYEES TIMESHEET WORK</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/uc?export=view&id=1XP_pgIfiUSBIlNeL16H-FXxhYUXBh6XA" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
+    
+    <div style="text-align: center; margin: 10px;">
+        <h3>VIEW WEAKLY FILLED TIMESHEET</h3>
+        <a href="#" target="_blank">
+            <img src="https://drive.google.com/file/d/1dpmL8fk16H3cT4DhDLcR3_g08-2g7c5J/view?usp=drive_link" alt="Image 2" style="max-width: 100%; height: auto;" width="280" />
+        </a>
+    </div>
 </div>
